@@ -1,0 +1,6 @@
+Mars/
+__pycache__/
+build/
+dist/
+*.exe
+config.json
